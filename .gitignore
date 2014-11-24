@@ -23,3 +23,7 @@
 /zlib.pc
 
 .DS_Store
+
+# Windows
+win32/zlib/*.sdf
+win32/zlib/*.suo
